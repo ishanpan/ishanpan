@@ -1,2 +1,2 @@
-# Hi there 👋 I am Ishan
+# Hi there 👋 I am Ishan. I like to code
 
