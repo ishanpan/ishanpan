@@ -1,2 +1,2 @@
-# Hi there 👋 General Kenobi
+# Hi there 👋 I am Ishan
 
