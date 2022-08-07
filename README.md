@@ -1,4 +1,4 @@
-# Hi there 👋 I am Ishan. A fullstack engineer.
+# Hi there 👋 I am Ishan.
 
 
 <h3 align="left">Languages and Tools that I work with</h3>
